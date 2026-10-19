@@ -1,5 +1,7 @@
 package com.example.stud101.ui
 
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Assignment
@@ -24,8 +26,11 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
+import com.example.stud101.ui.screens.AssignmentsScreen
 import com.example.stud101.ui.screens.AttendanceScreen
 import com.example.stud101.ui.screens.DashboardScreen
+import com.example.stud101.ui.screens.ProfileScreen
+import com.example.stud101.ui.screens.TestsScreen
 import com.example.stud101.ui.theme.NeonLime
 import com.example.stud101.viewmodel.StudViewModel
 
@@ -57,13 +62,13 @@ fun StudApp() {
                 AttendanceScreen(viewModel)
             }
             composable(Screen.Assignments.route) {
-                PlaceholderScreen("Assignments (Coming Soon)")
+                AssignmentsScreen(viewModel)
             }
             composable(Screen.Tests.route) {
-                PlaceholderScreen("Tests (Coming Soon)")
+                TestsScreen(viewModel)
             }
             composable(Screen.Profile.route) {
-                PlaceholderScreen("Profile & OD (Coming Soon)")
+                ProfileScreen(viewModel)
             }
         }
     }
@@ -103,15 +108,5 @@ fun BottomBar(navController: NavHostController) {
                 )
             )
         }
-    }
-}
-
-@Composable
-fun PlaceholderScreen(title: String) {
-    androidx.compose.foundation.layout.Box(
-        modifier = Modifier.fillMaxSize(),
-        contentAlignment = androidx.compose.ui.Alignment.Center
-    ) {
-        Text(text = title, style = androidx.compose.material3.MaterialTheme.typography.titleLarge)
     }
 }
