@@ -1,0 +1,56 @@
+com.example.stud101.app-resValues-0 C:\CODE PLAYGROUND\SEM 3\stud101\app\build\generated\res\resValues\debug
+com.example.stud101.app-packageDebugResources-1 C:\CODE PLAYGROUND\SEM 3\stud101\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.stud101.app-packageDebugResources-2 C:\CODE PLAYGROUND\SEM 3\stud101\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.stud101.app-debug-3 C:\CODE PLAYGROUND\SEM 3\stud101\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.stud101.app-debug-4 C:\CODE PLAYGROUND\SEM 3\stud101\app\src\debug\res
+com.example.stud101.app-main-5 C:\CODE PLAYGROUND\SEM 3\stud101\app\src\main\res
+com.example.stud101.app-runtime-release-6 C:\Users\kmadh\.gradle\caches\transforms-4\013cd2de7b95898947d44c6cfe366a92\transformed\runtime-release\res
+com.example.stud101.app-navigation-common-ktx-2.7.5-7 C:\Users\kmadh\.gradle\caches\transforms-4\038f66381c0f413eef4232171558c69b\transformed\navigation-common-ktx-2.7.5\res
+com.example.stud101.app-navigation-runtime-2.7.5-8 C:\Users\kmadh\.gradle\caches\transforms-4\0c8f6951a147eba1cf3331f11f3ab78f\transformed\navigation-runtime-2.7.5\res
+com.example.stud101.app-ui-graphics-release-9 C:\Users\kmadh\.gradle\caches\transforms-4\0dc43d26c13f4a7955fe8cc7257ee813\transformed\ui-graphics-release\res
+com.example.stud101.app-activity-1.8.1-10 C:\Users\kmadh\.gradle\caches\transforms-4\10e5d2db4a5ec01530eec31b8a102016\transformed\activity-1.8.1\res
+com.example.stud101.app-lifecycle-runtime-ktx-2.6.2-11 C:\Users\kmadh\.gradle\caches\transforms-4\135224e9cde6e2a532eb1cefd2dcf970\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.stud101.app-navigation-common-2.7.5-12 C:\Users\kmadh\.gradle\caches\transforms-4\15848deaa465fee7c4162b8b27cc2070\transformed\navigation-common-2.7.5\res
+com.example.stud101.app-ui-tooling-release-13 C:\Users\kmadh\.gradle\caches\transforms-4\1ab9320248922bda2e9b7beac3f5abc3\transformed\ui-tooling-release\res
+com.example.stud101.app-lifecycle-viewmodel-compose-2.6.2-14 C:\Users\kmadh\.gradle\caches\transforms-4\1aca86f2f5a598f153488f9cafb4bb51\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.example.stud101.app-ui-geometry-release-15 C:\Users\kmadh\.gradle\caches\transforms-4\1d76e9c9e9644bb63df51854718767d6\transformed\ui-geometry-release\res
+com.example.stud101.app-navigation-runtime-ktx-2.7.5-16 C:\Users\kmadh\.gradle\caches\transforms-4\20946f3939631f1224c26b8506a95832\transformed\navigation-runtime-ktx-2.7.5\res
+com.example.stud101.app-startup-runtime-1.1.1-17 C:\Users\kmadh\.gradle\caches\transforms-4\4042ced21b83ed7477418630e3ab23b0\transformed\startup-runtime-1.1.1\res
+com.example.stud101.app-ui-release-18 C:\Users\kmadh\.gradle\caches\transforms-4\490113a7b2b026e7ebbb7df6949a1f0c\transformed\ui-release\res
+com.example.stud101.app-lifecycle-viewmodel-ktx-2.6.2-19 C:\Users\kmadh\.gradle\caches\transforms-4\54b05f3c5c45cb935d72b686e324842d\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.stud101.app-activity-ktx-1.8.1-20 C:\Users\kmadh\.gradle\caches\transforms-4\5d2010cf20f81d6c1be470109f066b32\transformed\activity-ktx-1.8.1\res
+com.example.stud101.app-lifecycle-viewmodel-2.6.2-21 C:\Users\kmadh\.gradle\caches\transforms-4\5f83042f6b2cafd933518794cf8940fa\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.stud101.app-savedstate-ktx-1.2.1-22 C:\Users\kmadh\.gradle\caches\transforms-4\61f3c1b9e2d6f06c370b8bc77e37376c\transformed\savedstate-ktx-1.2.1\res
+com.example.stud101.app-ui-test-manifest-1.5.4-23 C:\Users\kmadh\.gradle\caches\transforms-4\65982794d515aeaebaab93ed53ea71fc\transformed\ui-test-manifest-1.5.4\res
+com.example.stud101.app-core-ktx-1.12.0-24 C:\Users\kmadh\.gradle\caches\transforms-4\6bbefca149f779b33865635b4792b529\transformed\core-ktx-1.12.0\res
+com.example.stud101.app-room-ktx-2.6.1-25 C:\Users\kmadh\.gradle\caches\transforms-4\6c4dc5516dea00fe2a1421134f79aff5\transformed\room-ktx-2.6.1\res
+com.example.stud101.app-savedstate-1.2.1-26 C:\Users\kmadh\.gradle\caches\transforms-4\7355c547beee74d7aeacae1b2bce96f4\transformed\savedstate-1.2.1\res
+com.example.stud101.app-navigation-compose-2.7.5-27 C:\Users\kmadh\.gradle\caches\transforms-4\77a98fde47e7760de0d28a2ff0f21c3f\transformed\navigation-compose-2.7.5\res
+com.example.stud101.app-lifecycle-viewmodel-savedstate-2.6.2-28 C:\Users\kmadh\.gradle\caches\transforms-4\8164ebae93151062f70949d0e3cf8b43\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.stud101.app-profileinstaller-1.3.0-29 C:\Users\kmadh\.gradle\caches\transforms-4\81bba6700c94a9d4b1c4c53f73a8257b\transformed\profileinstaller-1.3.0\res
+com.example.stud101.app-animation-release-30 C:\Users\kmadh\.gradle\caches\transforms-4\828e92168cdb4fd1ef5e2aa8418f2498\transformed\animation-release\res
+com.example.stud101.app-ui-unit-release-31 C:\Users\kmadh\.gradle\caches\transforms-4\91a68cb8ec2f0dcbca83ebac624b6e99\transformed\ui-unit-release\res
+com.example.stud101.app-foundation-release-32 C:\Users\kmadh\.gradle\caches\transforms-4\9e346b406c02cd0f898a02cdf8f4b7de\transformed\foundation-release\res
+com.example.stud101.app-foundation-layout-release-33 C:\Users\kmadh\.gradle\caches\transforms-4\a1ffcbd57882d3017cd0bba2002a26ba\transformed\foundation-layout-release\res
+com.example.stud101.app-ui-util-release-34 C:\Users\kmadh\.gradle\caches\transforms-4\adfba7b2b4531ff4f41a8a1fc8ea6e5a\transformed\ui-util-release\res
+com.example.stud101.app-annotation-experimental-1.3.0-35 C:\Users\kmadh\.gradle\caches\transforms-4\ae7c3f9bfc6e5efb033005e538397d36\transformed\annotation-experimental-1.3.0\res
+com.example.stud101.app-emoji2-1.4.0-36 C:\Users\kmadh\.gradle\caches\transforms-4\b8204bdcf8267787a10e5da0348b634b\transformed\emoji2-1.4.0\res
+com.example.stud101.app-core-1.12.0-37 C:\Users\kmadh\.gradle\caches\transforms-4\bce1da358343b2c861397c158c1262db\transformed\core-1.12.0\res
+com.example.stud101.app-room-runtime-2.6.1-38 C:\Users\kmadh\.gradle\caches\transforms-4\bef30d58a28ee7ae838b68794b27eb8a\transformed\room-runtime-2.6.1\res
+com.example.stud101.app-material-release-39 C:\Users\kmadh\.gradle\caches\transforms-4\c1d03633b376afe7a591a188cf2afa78\transformed\material-release\res
+com.example.stud101.app-customview-poolingcontainer-1.0.0-40 C:\Users\kmadh\.gradle\caches\transforms-4\c46bee8fd1ff194261daa3c63f21c961\transformed\customview-poolingcontainer-1.0.0\res
+com.example.stud101.app-ui-tooling-data-release-41 C:\Users\kmadh\.gradle\caches\transforms-4\ca1e3acfaff100fc3eff52c0f0ea5838\transformed\ui-tooling-data-release\res
+com.example.stud101.app-sqlite-framework-2.4.0-42 C:\Users\kmadh\.gradle\caches\transforms-4\ccad3ade591ee709076a486710d9989b\transformed\sqlite-framework-2.4.0\res
+com.example.stud101.app-animation-core-release-43 C:\Users\kmadh\.gradle\caches\transforms-4\cf573aa826d8f7c2b9cd5e60261a50da\transformed\animation-core-release\res
+com.example.stud101.app-material-ripple-release-44 C:\Users\kmadh\.gradle\caches\transforms-4\d1936b930c0a89baf9785d6d53b8298a\transformed\material-ripple-release\res
+com.example.stud101.app-runtime-saveable-release-45 C:\Users\kmadh\.gradle\caches\transforms-4\d4999cbdf790460221657bd95afe1246\transformed\runtime-saveable-release\res
+com.example.stud101.app-lifecycle-runtime-2.6.2-46 C:\Users\kmadh\.gradle\caches\transforms-4\d9d0096ae05befcd2908d1e0d9418f66\transformed\lifecycle-runtime-2.6.2\res
+com.example.stud101.app-ui-tooling-preview-release-47 C:\Users\kmadh\.gradle\caches\transforms-4\db603dd1804eed258438b498df6786c8\transformed\ui-tooling-preview-release\res
+com.example.stud101.app-sqlite-2.4.0-48 C:\Users\kmadh\.gradle\caches\transforms-4\dbac909c75eb58fc49400cf61aecf0c7\transformed\sqlite-2.4.0\res
+com.example.stud101.app-material-icons-core-release-49 C:\Users\kmadh\.gradle\caches\transforms-4\dd9787e25dbf0d3654efff2e096fd6b1\transformed\material-icons-core-release\res
+com.example.stud101.app-activity-compose-1.8.1-50 C:\Users\kmadh\.gradle\caches\transforms-4\e722530caa90718a278bacf7426e55ec\transformed\activity-compose-1.8.1\res
+com.example.stud101.app-material3-1.1.2-51 C:\Users\kmadh\.gradle\caches\transforms-4\e8fdf1d678e0793f64546f45e609a7b6\transformed\material3-1.1.2\res
+com.example.stud101.app-lifecycle-process-2.6.2-52 C:\Users\kmadh\.gradle\caches\transforms-4\f3cd44278c941f3ce8e6625dc6681030\transformed\lifecycle-process-2.6.2\res
+com.example.stud101.app-core-runtime-2.2.0-53 C:\Users\kmadh\.gradle\caches\transforms-4\f7844525769b19b71b72d79f25fb7e13\transformed\core-runtime-2.2.0\res
+com.example.stud101.app-ui-text-release-54 C:\Users\kmadh\.gradle\caches\transforms-4\fba89847ffcb6cfb3c7689f855dfcabe\transformed\ui-text-release\res
+com.example.stud101.app-lifecycle-livedata-core-2.6.2-55 C:\Users\kmadh\.gradle\caches\transforms-4\fcc6b3bd87e9a52aa0593cbaff2734aa\transformed\lifecycle-livedata-core-2.6.2\res

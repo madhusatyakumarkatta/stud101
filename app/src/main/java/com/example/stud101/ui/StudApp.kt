@@ -4,10 +4,10 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Assignment
 import androidx.compose.material.icons.filled.CheckCircle
 import androidx.compose.material.icons.filled.DateRange
 import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.filled.List
 import androidx.compose.material.icons.filled.Person
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
@@ -37,7 +37,7 @@ import com.example.stud101.viewmodel.StudViewModel
 sealed class Screen(val route: String, val title: String, val icon: ImageVector) {
     object Dashboard : Screen("dashboard", "Home", Icons.Default.Home)
     object Attendance : Screen("attendance", "Attendance", Icons.Default.CheckCircle)
-    object Assignments : Screen("assignments", "Tasks", Icons.Default.Assignment)
+    object Assignments : Screen("assignments", "Tasks", Icons.Default.List)
     object Tests : Screen("tests", "Tests", Icons.Default.DateRange)
     object Profile : Screen("profile", "Profile", Icons.Default.Person)
 }
